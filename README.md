@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Janidu Imesh</h1>
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/janiduimesh/janiduimesh/blob/main/tenor.gif?raw=true" data-target="animated-image.originalLink"><img src="https://github.com/janiduimesh/janiduimesh/blob/main/tenor.gif?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<div align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/janiduimesh/janiduimesh/blob/main/tenor.gif?raw=true">
+    <img src="https://github.com/janiduimesh/janiduimesh/blob/main/tenor.gif?raw=true" width="400" style="display: inline-block;">
+  </a>
+</div>
+
 
 <h3 align="center">I'm a passionate and driven data science enthusiast with a knack for transforming complex data into actionable insights.</h3>
 
