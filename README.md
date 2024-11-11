@@ -2,7 +2,7 @@
 
 <div align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/janiduimesh/janiduimesh/blob/main/tenor.gif?raw=true">
-    <img src="https://github.com/janiduimesh/janiduimesh/blob/main/tenor.gif?raw=true" width="100" style="display: inline-block;">
+    <img src="https://github.com/janiduimesh/janiduimesh/blob/main/tenor.gif?raw=true" width="200" style="display: inline-block;">
   </a>
 </div>
 
