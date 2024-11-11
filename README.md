@@ -21,7 +21,7 @@
 
 🧠 **Technical Skills**: Proficient in Python, TensorFlow, and Scikit-Learn, with experience in using Streamlit for web app development and Conda for package management.
 
-🌱 **Learning**: Improving my skills in Hadoop for big data processing and focusing on domain-specific text summarization using BERT and BART.
+🌱 **Learning**: Improving my skills in big data processing and focusing on domain-specific summarizations using BERT and BART.
 
 🎯 **Career Goal**: Seeking an internship where I can apply my data science skills in a real-world setting and contribute to meaningful projects that drive organizational success.
 
