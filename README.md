@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janidu Imesh</h1>
 
-<a target="_blank" rel="noopener noreferrer" href="https://tenor.com/view/code-coding-computer-gif-19684211?raw=true" data-target="animated-image.originalLink"><img src="https://tenor.com/view/code-coding-computer-gif-19684211?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+![Coding GIF](https://github.com/janiduimesh/janiduimesh/blob/main/tenor.gif)
+
 <h3 align="center">I'm a passionate and driven data science enthusiast with a knack for transforming complex data into actionable insights.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janiduimesh&label=Profile%20views&color=0e75b6&style=flat" alt="janiduimesh" /> </p>
